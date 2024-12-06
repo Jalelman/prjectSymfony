@@ -9,6 +9,7 @@ This is a basic e-commerce platform designed and developed as part of an academi
 - **Sirine Ben CHALLADIA**  
 - **Houcem BELKHIRIA** 
 
+
 ## Features
 - User registration and authentication
 - Product catalog with categories
