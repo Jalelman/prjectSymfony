@@ -6,7 +6,7 @@ This is a basic e-commerce platform designed and developed as part of an academi
 ### Contributors
 - **Mohamed Amine JALEL**  
 - **Amen Allah KSOURI**  
-- **Sirine Ben CHALLADIA**  
+- **Sirine BEN CHALLADIA**  
 - **Houcem BELKHIRIA** 
 
 
